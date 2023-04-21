@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Qz39fZ8lwEE9xOMz7ofXaCnC4jtZGCqUUU+XXMkAvG5oiPTTebibUsyH9VPovhegdAjf4M6+ktUg6xknL5n2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nixy\\Desktop\\fax\\WEB\\zadaci\\majski2021\\majski2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nixy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nixy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nixy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nixy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nixy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nixy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

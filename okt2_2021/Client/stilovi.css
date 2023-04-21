@@ -1,0 +1,28 @@
+.prodavnicaDIV {
+    display: flex;
+    flex-direction: column;
+}
+
+.menuDIV, .divZaTabelu {
+    display: flex; 
+    flex-direction: row;
+    padding-right: 10px;
+}
+
+.izmeniDIV {
+   display: none;
+}
+
+.pretragaDIV {
+    border: 1px solid red
+}
+
+
+.tabela, th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.tabela {
+    border-collapse: collapse;
+}
